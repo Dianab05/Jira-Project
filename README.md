@@ -27,3 +27,6 @@
 
 
 Link catre fisier [Git repo screenshot](https://github.com/Dianab05/Jira-Project/blob/main/request%201%20tests.png)
+
+![Daily report](https://github.com/Dianab05/Jira-Project/blob/main/request%201%20tests.png)
+![Daily report](link)

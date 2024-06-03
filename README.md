@@ -24,3 +24,6 @@
   </li>
   <li>Fourth item</li>
 </ol>
+
+
+Link catre fisier [Git repo screenshot](https://github.com/Dianab05/Jira-Project/blob/main/request%201%20tests.png)

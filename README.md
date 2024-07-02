@@ -35,25 +35,39 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
-The test plan that was created for this project can be found [here]  **(inserati link catre documentul cu planul de testare)**
+The test plan that was created for this project can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Test%20Plan%20Guru%2099%20Banking.pdf)
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
-<ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
-</ul>
+<table>
+<tr><td>Project manager </td><td>Ion Popescu</td> </tr>
+<tr><td>Product owner</td><td>Maria Ionescu</td></tr>
+<tr><td>Software developer</td><td>Mihai Apostol</td></tr>
+<tr><td>QA Engineer</td><td>Batrinu Diana</td></tr>
+</table>
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+• Testing environment is up and running  <br>
+• Business requirements are completed by the analysis team and are delivered to the 
+appropriate testing team for evaluation <br>
+• Potential project risks are detected and mitigated <br>
+• Roles and responsibilities are allocated <br>
+• Test plan should be finalized before entering the next phase of testing <br>
+• Define the objectives of testing and the accepted level of quality 
+<br>
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+• All the test cases were executed, run rate is mandatory to be 100% <br>
+• 90% or more of the test cases are passed  <br>
+• All detected errors have been reported and closed <br>
+• No critical issues have status open <br>
+• The project budget was reached <br>
+• The project deadline was reached <br>
+• The remaining defects/bugs have low severity and low priority  <br>
+• Test completion report has been created and sent to the stakeholders <br>
+• Product risks have been identified and mitigated<br>
 
 <h4> 1.1.4 Test scope</h4>
 

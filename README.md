@@ -1,6 +1,6 @@
 <h1>Testing Project for Guru 99 Banking</h1>
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
 Application under test: **Guru 99 Banking**
 
@@ -8,15 +8,22 @@ Tools used: **Jira, Zephyr Squad**
 
 <h2>Functional specifications:</h2>
 
-The below stories was created in Jira and describes the functional specifications of the Manager module, for which the final project is performed upon.
+The stories below was created in Jira and describes the functional specifications of the Manager module, for which the final project is performed upon.
 
-[SDB-7.pdf](https://github.com/user-attachments/files/16068795/SDB-7.pdf)
+![story1](https://github.com/Dianab05/Jira-Project/assets/166596469/2adfdb65-fd88-445f-bd55-2e79d0ca74e3)
 
-**inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
+
+
+![story 2](https://github.com/Dianab05/Jira-Project/assets/166596469/4a77f7d4-6e74-4dd7-bfbb-162e8a7ff157)
+
+
+<h2>Release </h2>
 
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+![release](https://github.com/Dianab05/Jira-Project/assets/166596469/bcb88202-7053-4f22-ba9c-a78abdab1eeb)
+
+
 
 <h2>Testing process</h2>
 
@@ -24,9 +31,11 @@ The test process was performed based on the standard test process as described b
 
 <h3>1.1 Test planning</h3>
 
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for all the modules from the Guru99 Banking aplication.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **(inserati link catre documentul cu planul de testare)**
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
+
+The test plan that was created for this project can be found [here]  **(inserati link catre documentul cu planul de testare)**
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 

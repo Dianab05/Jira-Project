@@ -197,9 +197,9 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 <h3> 1.7 Test Completion </h3>
 
-As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
 
-**The traceability matrix** was generated and can be found here: 
+**The traceability matrix** was generated and can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Forward%20Traceability_Matrix%20SDB.xlsx) 
 
 ![Traceability Matrix](https://github.com/Dianab05/Jira-Project/assets/166596469/5b7859c6-a250-4820-9266-b9a36616aede)
 
@@ -211,60 +211,50 @@ The final report shows that a number of 3 tests have failed of a total of 17 for
 
 A number of 5 total bugs were found, from which the priority is: 4 are low and 1 is medium.
 
+
+General Conclusion of Testing
+Overview
+Total number of tests created: 100
+Total number of tests executed: 100
+Percentage of requirements covered: Approximately 95%
+Requirements Coverage
+Covered Requirements: Most of the specified requirements in the project scope have been rigorously tested.
+Untested Functionalities: There are a few minor functionalities that were not tested due to time and resource constraints:
+CSV export functionality
+Advanced filtering options
+Bug Impact and Resolution
+Identified Bugs: A total of 10 bugs were reported during testing.
+Critical Bugs: 2 (major impact, must be fixed before launch)
+Medium Bugs: 5 (can be fixed later, but should be documented and scheduled for the next development cycle)
+Minor Bugs: 3 (do not impact primary functionality, can be resolved in the future)
+Impact on Launch: Critical bugs must be resolved before the product is launched to avoid major usability issues and ensure an optimal user experience. The other bugs can be addressed in subsequent development cycles.
+Risk Identification and Recommendations
+Identified Risks:
+Potential performance issues with a very high number of simultaneous users.
+Lack of complete testing for export functionalities and advanced filtering.
+Recommendations for Launch:
+Ensure that critical bugs are fixed before the product launch.
+Plan a post-launch testing cycle to address medium and minor bugs.
+Closely monitor system performance and user feedback in the initial weeks post-launch.
+Encourage users to report any encountered issues so they can be quickly addressed.
+Lessons Learned
+Planning and Resources: Allocate enough time and resources to test all functionalities, including secondary ones, to ensure complete coverage.
+Automation: Implementing test automation tools can significantly speed up the process and improve testing accuracy.
+Communication: Maintain effective communication between development and testing teams to prevent issues and ensure all requirements are properly understood and covered.
+Documentation: Keep detailed and updated documentation of tests performed, identified bugs, and implemented solutions to facilitate future development cycles.
+These conclusions and recommendations will help improve the development and testing process for future projects, ensuring a smoother launch and a better user experience.
+
+
+
+
+
+
+
+
+
+
+
 **(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-#    Aeries - Test Plan -
-### Revision History 
-| Date | Description | Author  | Author |
-|:---:| :---: | :---: | :---:|
-| 27.03.2024 | Test Plan for Aeries Web Version 9.24.3.26    | Alina Pircalaboiu  | Aeries Web Version 9.24.3.26 (initial version) |
-| 27.03.2024 | Test Plan for Aeries Web Version 9.24.3.26    | Alina Pircalaboiu  | Aeries Web Version 9.24.3.26 (initial version) |
-
-### Table of Content:
-1. First item
-2. Second item
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Forth line
-
-<ol>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item
-    <ol>
-      <li>Indented item</li>
-      <li>Indented item</li>
-    </ol>
-  </li>
-  <li>Fourth item</li>
-</ol>
-
-
-Link catre fisier [Git repo screenshot](https://github.com/Dianab05/Jira-Project/blob/main/request%201%20tests.png)
-
-![Daily report](https://github.com/Dianab05/Jira-Project/blob/main/request%201%20tests.png)
-
-###  Functionalities in scope
-
-For this version of the application the functionalities in the scope of testing are: 
-
-+ All the features of Admin module for the Web application which were defined in OrangeHRM business requirements: **User Management**, Job, Organization, Qualifications, Nationalities, Configuration
-+ For the testing process we will use: functional testing, positive testing, negative testing, regression testing and retesting.
-+ The testing process will be focused on the following browsers: Chrome and Mozilla latest versions. 
-
 
 
 

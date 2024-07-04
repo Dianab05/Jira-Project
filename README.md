@@ -35,7 +35,7 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
-The test plan that was created for this project can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Test%20Plan%20Guru%2099%20Banking.pdf)
+The **test plan** that was created for this project can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Test%20Plan%20Guru%2099%20Banking.pdf)
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
@@ -129,11 +129,10 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 <h3>1.2 Test Monitoring and Control</h3>
 
 **Reason for Monitoring and Control** <br>
-The monitoring and control stage was conducted to ensure that the testing process proceeds according to plan and that all requirements and specifications are met. 
-This stage is essential for promptly identifying and addressing issues that arise during testing, evaluating progress and performance, and making informed decisions about necessary adjustments.
-By closely monitoring, it can be ensured that all critical bugs are addressed and that the final product will be of high quality and ready for release.
 
-![test execution report](https://github.com/Dianab05/Jira-Project/assets/166596469/4d68bd9e-2c60-4508-a53c-1cc04c198b7a)
+The monitoring and control stage was conducted to ensure that the testing process proceeds according to plan and that all requirements and specifications are met. <br>
+This stage is essential for promptly identifying and addressing issues that arise during testing, evaluating progress and performance, and making informed decisions about necessary adjustments. <br>
+By closely monitoring, it can be ensured that all critical bugs are addressed and that the final product will be of high quality and ready for release. <br>
 
 
 <h3> 1.3 Test Analysis </h3>
@@ -148,7 +147,7 @@ You can find below an example of some of the test conditions that were created i
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. <br>
 
-The test cases can be accessed [here](https://github.com/Dianab05/Jira-Project/blob/main/Zephyr%20Test%20Steps%20(Jira)%20SDB.pdf)
+The **test cases** can be accessed [here](https://github.com/Dianab05/Jira-Project/blob/main/Zephyr%20Test%20Steps%20(Jira)%20SDB.pdf)
 
 
 <h3>1.5 Test Implementation</h3>
@@ -173,18 +172,31 @@ Selection and setup of test automation tools, defect tracking tools, and any oth
 **Test Team:**  <br>
 A well-prepared test team with clearly defined roles and responsibilities. Team members should be trained and familiar with the test plan, tools, and procedures. <br>
 
+
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: **(inserati aici numele cycle-ului pe care l-ati creat)**
+Test cases are executed on the created test Cycle summary: <br>
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+![cycle summary](https://github.com/Dianab05/Jira-Project/assets/166596469/2538601f-33d1-4610-99c6-2d8923a772df)
 
-The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
+Bugs have been created based on the failed tests. <br> 
+
+The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+
+The following is a summary of the bugs that have been found:
+
+![list of bugs](https://github.com/Dianab05/Jira-Project/assets/166596469/19b6d2e1-52f7-4ae0-abaa-823d2da945bd)
+
+SDB-18 -> Priority Low, Severity Low <br> 
+SDB-20 -> Priority Low, Severity Low <br> 
+SDB-35 -> Priority Low, Severity Low <br> 
+SDB-43 -> Priority High, Severity Medium <br>
+SDB-44 -> Priority Low, Severity Low <br> 
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-1.7 Test Completion
+<h3> 1.7 Test Completion </h3>
+
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**

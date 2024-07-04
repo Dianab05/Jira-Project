@@ -35,7 +35,7 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
-The **test plan** that was created for this project can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Test%20Plan%20Guru%2099%20Banking.pdf)
+The **test plan** that was created for this project can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Jira%20BUG%20REPORT%20.pdf)
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
@@ -211,50 +211,42 @@ The final report shows that a number of 3 tests have failed of a total of 17 for
 
 A number of 5 total bugs were found, from which the priority is: 4 are low and 1 is medium.
 
+<h3> General Conclusion of Testing </h3>
 
-General Conclusion of Testing
-Overview
-Total number of tests created: 100
-Total number of tests executed: 100
-Percentage of requirements covered: Approximately 95%
-Requirements Coverage
-Covered Requirements: Most of the specified requirements in the project scope have been rigorously tested.
-Untested Functionalities: There are a few minor functionalities that were not tested due to time and resource constraints:
-CSV export functionality
-Advanced filtering options
-Bug Impact and Resolution
-Identified Bugs: A total of 10 bugs were reported during testing.
-Critical Bugs: 2 (major impact, must be fixed before launch)
-Medium Bugs: 5 (can be fixed later, but should be documented and scheduled for the next development cycle)
-Minor Bugs: 3 (do not impact primary functionality, can be resolved in the future)
-Impact on Launch: Critical bugs must be resolved before the product is launched to avoid major usability issues and ensure an optimal user experience. The other bugs can be addressed in subsequent development cycles.
-Risk Identification and Recommendations
-Identified Risks:
-Potential performance issues with a very high number of simultaneous users.
-Lack of complete testing for export functionalities and advanced filtering.
-Recommendations for Launch:
-Ensure that critical bugs are fixed before the product launch.
-Plan a post-launch testing cycle to address medium and minor bugs.
-Closely monitor system performance and user feedback in the initial weeks post-launch.
-Encourage users to report any encountered issues so they can be quickly addressed.
-Lessons Learned
-Planning and Resources: Allocate enough time and resources to test all functionalities, including secondary ones, to ensure complete coverage.
-Automation: Implementing test automation tools can significantly speed up the process and improve testing accuracy.
-Communication: Maintain effective communication between development and testing teams to prevent issues and ensure all requirements are properly understood and covered.
-Documentation: Keep detailed and updated documentation of tests performed, identified bugs, and implemented solutions to facilitate future development cycles.
-These conclusions and recommendations will help improve the development and testing process for future projects, ensuring a smoother launch and a better user experience.
+**Overview**
+Total number of tests created: 26 <br>
+Total number of tests executed: 26 <br>
+Percentage of requirements covered: Approximately 95% <br>
 
+**Requirements Coverage** 
+Covered Requirements: Most of the specified requirements in the project scope have been rigorously tested.<br>
+Untested Functionalities: There are a few minor functionalities that were not tested due to time and resource constraints:<br>
+- CSV export functionality<br>
+- Advanced filtering options<br>
 
+**Bug Impact and Resolution**
+Identified Bugs: A total of 5 bugs were reported during testing.<br>
+Medium Bugs: 1 (can be fixed later, but should be documented and scheduled for the next development cycle)<br>
+Minor Bugs: 4 (do not impact primary functionality, can be resolved in the future)<br>
 
+Impact on Launch: The bugs can be addressed in subsequent development cycles. <br>
 
+**Risk Identification and Recommendations**
+Identified Risks: <br>
+- Taking into account that only 3 modules were in the scope of testing, the rest of the modules will still be at risk of not fulfilling the user needs <br>
+- Validation constraints on some of the fields might be too restrictive <br>
 
+**Recommendations for Launch:**
+- Plan a post-launch testing cycle to address medium and minor bugs. <br>
+- Closely monitor system performance and user feedback in the initial weeks post-launch. <br>
+- Encourage users to report any encountered issues so they can be quickly addressed.<br>
 
-
-
-
-
-
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
+**Lessons Learned**
+Planning and Resources: Allocate enough time and resources to test all functionalities, including secondary ones, to ensure complete coverage. <br>
+Automation: Implementing test automation tools can significantly speed up the process and improve testing accuracy.<br>
+Communication: Maintain effective communication between development and testing teams to prevent issues and ensure all requirements are properly understood and covered.<br>
+Documentation: Keep detailed and updated documentation of tests performed, identified bugs, and implemented solutions to facilitate future development cycles.<br>
+These conclusions and recommendations will help improve the development and testing process for future projects, ensuring a smoother launch and a better user experience.<br>
 
 
 

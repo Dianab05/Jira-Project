@@ -181,7 +181,7 @@ Test cases are executed on the created test Cycle summary: <br>
 
 Bugs have been created based on the failed tests. <br> 
 
-The complete bug reports can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Jira%20BUG%20REPORT%20.pdf)
+The **complete bug report** can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Jira%20BUG%20REPORT%20.pdf)
 
 The following is a summary of the bugs that have been found:
 
@@ -199,15 +199,17 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+**The traceability matrix** was generated and can be found here: 
 
-Test execution chart was generated and can be found below. 
+![Traceability Matrix](https://github.com/Dianab05/Jira-Project/assets/166596469/5b7859c6-a250-4820-9266-b9a36616aede)
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+**Test execution chart** was generated and can be found below. 
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
+![test execution report](https://github.com/Dianab05/Jira-Project/assets/166596469/608f2aa4-b2d5-48f1-a0e6-55d03aeb259e)
 
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+The final report shows that a number of 3 tests have failed of a total of 17 for the "New Customer" cycle, and a number of 2 tests have failed of a total of 9 for the "Edit Customer" cycle. 
+
+A number of 5 total bugs were found, from which the priority is: 4 are low and 1 is medium.
 
 **(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
 

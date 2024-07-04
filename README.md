@@ -181,7 +181,7 @@ Test cases are executed on the created test Cycle summary: <br>
 
 Bugs have been created based on the failed tests. <br> 
 
-The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+The complete bug reports can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Jira%20BUG%20REPORT%20.pdf)
 
 The following is a summary of the bugs that have been found:
 

@@ -73,40 +73,83 @@ appropriate testing team for evaluation <br>
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+For this version of the application the functionalities in the scope of testing are:  
+Some of the features of Manager module for the Web application which were defined in 
+Guru99 Banking Project software requirements specification:  
+✓ New Customer <br>
+✓ Edit Customer  <br>
+✓ Delete Customer  <br>
+
+From the point of view of the testing techniques we are going to use mostly blackbox testing with the following test design techniques: 
+- equivalence partitioning
+- boundary value analysis
+- decision table
+  
+From a testing type perspective we are going to use non-functional testing  where we are going to cover only usability testing and compatibility testing. <br>
+
+Also, positive testing and negative testing are to be done, and (according to the needs) retesting and regression testing will be done when defects are going 
+to be fixed or when modifications of any type are going to be brought to the code. <br>
+
+The testing process will be focused on the Chrome browser version 27 and above <br>
 
 <h5>Tests not in scope: </h5>
 
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+From the perspective of the modules covered, any other functionality that is located outside of the specified modules are not to be tested.
+
+We are not going to cover during the testing process any techniques related to whitebox testing. 
+
+Also, security testing and non-functional testing like performance, stress, volume or logical database testing will not be performed during this session of testing. 
+
+Test process for mobile application is out of scope.
+
+Other browsers except Chrome are out of scope.
+
+Automation testing is beyond scope.
 
 <h4>1.1.5 Risks detected</h4>
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+•	The team does not have the proper knowledge or experience in order to guarantee the desired level of quality for the application <br>
+•	Not enough time has been allocated in order to properly test and cover all the functionalities in scope<br>
+•	All that the data that is going to be used will have to be created explicitly in the scope of testing, which will cut off from the time allocated for testing, generating a risk of not reaching the deadline<br>
+•	Test environment not working <br>
+•	Due to the company changes we might have levers <br>
 
 <h5> Product risks: </h5>
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+•	All the data that is going to be used will be test data, which will not give us an experience of the application close enough to the ones that the user will experience <br>
+•	Taking into account that only 3 modules are in the scope of testing, the rest of the modules will still be at risk of not fulfilling the user needs<br>
+•	Validation constraints on some of the fields might be too restrictive<br>
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
-<h3>1.2 Test Monitoring and Control<h3>
+<h3>1.2 Test Monitoring and Control</h3>
 
-**(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
+**Reason for Monitoring and Control** <br>
+The monitoring and control stage was conducted to ensure that the testing process proceeds according to plan and that all requirements and specifications are met. 
+This stage is essential for promptly identifying and addressing issues that arise during testing, evaluating progress and performance, and making informed decisions about necessary adjustments.
+By closely monitoring, it can be ensured that all critical bugs are addressed and that the final product will be of high quality and ready for release.
+
+![test execution report](https://github.com/Dianab05/Jira-Project/assets/166596469/4d68bd9e-2c60-4508-a53c-1cc04c198b7a)
+
 
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+The testing process will be executed based on the application requirements.<br>
 
-The following test conditions were found: <br>
+You can find below an example of some of the test conditions that were created in the scope of this project: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+![list of tests](https://github.com/Dianab05/Jira-Project/assets/166596469/93d131b5-a452-481a-8f64-0eb13d8d76a9)
+
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. <br>
+
+The test cases can be accessed here:
+**(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
 
 <h3>1.5 Test Implementation</h3>
 

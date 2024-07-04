@@ -148,14 +148,30 @@ You can find below an example of some of the test conditions that were created i
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. <br>
 
-The test cases can be accessed here:
-**(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+The test cases can be accessed [here](https://github.com/Dianab05/Jira-Project/blob/main/Zephyr%20Test%20Steps%20(Jira)%20SDB.pdf)
+
 
 <h3>1.5 Test Implementation</h3>
 
 The following elements are needed to be ready before the test execution phase begins:
 
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
+**Test Plan:** <br>
+A comprehensive test plan outlining the scope, objectives, resources, schedule, and activities involved in testing.<br>
+
+**Test Cases:** <br>
+Detailed test cases covering all functional and non-functional requirements. These should include inputs, execution steps, and expected results. <br>
+
+**Test Environment:**  <br>
+A properly configured test environment that mirrors the production environment as closely as possible. This includes hardware, software, network configurations, and databases.
+
+**Test Data:** <br>
+Representative test data that covers all possible scenarios, including edge cases and boundary conditions. This data should be prepared and validated. <br>
+
+**Test Tools:**  <br>
+Selection and setup of test automation tools, defect tracking tools, and any other testing tools that will be used during the test execution phase.  <br>
+
+**Test Team:**  <br>
+A well-prepared test team with clearly defined roles and responsibilities. Team members should be trained and familiar with the test plan, tools, and procedures. <br>
 
 <h3>1.6. Test Execution </h3>
 

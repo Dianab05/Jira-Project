@@ -35,7 +35,7 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
-The **test plan** that was created for this project can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Jira%20BUG%20REPORT%20.pdf)
+The **test plan** that was created for this project can be found [here](https://github.com/Dianab05/Jira-Project/blob/main/Test%20Plan%20Guru%2099%20Banking.pdf)
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 

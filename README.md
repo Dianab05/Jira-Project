@@ -218,30 +218,30 @@ Total number of tests created: 26 <br>
 Total number of tests executed: 26 <br>
 Percentage of requirements covered: Approximately 95% <br>
 
-**Requirements Coverage** 
+**Requirements Coverage** <br>
 Covered Requirements: Most of the specified requirements in the project scope have been rigorously tested.<br>
 Untested Functionalities: There are a few minor functionalities that were not tested due to time and resource constraints:<br>
 - CSV export functionality<br>
 - Advanced filtering options<br>
 
-**Bug Impact and Resolution**
+**Bug Impact and Resolution** <br>
 Identified Bugs: A total of 5 bugs were reported during testing.<br>
 Medium Bugs: 1 (can be fixed later, but should be documented and scheduled for the next development cycle)<br>
 Minor Bugs: 4 (do not impact primary functionality, can be resolved in the future)<br>
 
-Impact on Launch: The bugs can be addressed in subsequent development cycles. <br>
+**Impact on Launch:** The bugs can be addressed in subsequent development cycles. <br>
 
-**Risk Identification and Recommendations**
+**Risk Identification and Recommendations** <br>
 Identified Risks: <br>
 - Taking into account that only 3 modules were in the scope of testing, the rest of the modules will still be at risk of not fulfilling the user needs <br>
 - Validation constraints on some of the fields might be too restrictive <br>
 
-**Recommendations for Launch:**
+**Recommendations for Launch:** <br>
 - Plan a post-launch testing cycle to address medium and minor bugs. <br>
 - Closely monitor system performance and user feedback in the initial weeks post-launch. <br>
 - Encourage users to report any encountered issues so they can be quickly addressed.<br>
 
-**Lessons Learned**
+**Lessons Learned** <br>
 Planning and Resources: Allocate enough time and resources to test all functionalities, including secondary ones, to ensure complete coverage. <br>
 Automation: Implementing test automation tools can significantly speed up the process and improve testing accuracy.<br>
 Communication: Maintain effective communication between development and testing teams to prevent issues and ensure all requirements are properly understood and covered.<br>

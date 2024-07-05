@@ -8,7 +8,7 @@ Tools used: **Jira, Zephyr Squad**
 
 <h2>Functional specifications:</h2>
 
-The stories below was created in Jira and describes the functional specifications of the "New customer" module and "Edit customer" module, for which the final project is performed upon.
+The stories below was created in Jira and describes the functional specifications of the "New customer" and "Edit customer" modules, for which the final project is performed upon.
 
 ![story1](https://github.com/Dianab05/Jira-Project/assets/166596469/2adfdb65-fd88-445f-bd55-2e79d0ca74e3)
 
